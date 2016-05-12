@@ -1,0 +1,10 @@
+assets
+docs
+gulp
+scripts
+test
+typings
+*.json
+*.js
+*.yml
+.*
